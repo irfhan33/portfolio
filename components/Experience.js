@@ -19,7 +19,7 @@ export default function Experience() {
                   AUGUST 2020
                 </span>
                 <p className="text-brownn text-opacity-60 leading-loose">
-                  Wen i was in college had an internship at the DPRD of South
+                  When i was in college had an internship at the DPRD of South
                   Sulawesi Province and helped create a website project called
                   Pohon Kebaikan and E-Canteen
                 </p>
@@ -43,7 +43,7 @@ export default function Experience() {
                   Right before graduating from college I got my first full time
                   job as a programmer at the South Sulawesi Chamber of Commerce
                   and Industry, there I created the website kadinsulsel.id and
-                  also mms.kadinsulsel.id which served as the company's main
+                  also mms.kadinsulsel.id which served as the companys main
                   media.
                 </p>
               </div>
