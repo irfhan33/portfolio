@@ -22,7 +22,7 @@ export default function Hero() {
                   design Website UI Designs with User Experience in focus.
                 </p>
               </div>
-              <Button title="see my work" variant="fill" />
+              <Button title="see my work" variant="fill" link="work" />
             </div>
             <div className="md:w-6/12 md:order-none">
               <img src="/pic.png" className="md:w-[90%] w-[70%] mx-auto" />

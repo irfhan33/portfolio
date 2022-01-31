@@ -13,7 +13,7 @@ export default function Navbar() {
           <Navlinks dir="horizontal" />
         </div>
         <div className="w-2/12 text-right hidden md:block">
-          <Button title="resume" variant="outline" />
+          <Button title="resume" variant="outline" link="resume" />
         </div>
         <div className="w-10/12 md:hidden">
           <img
@@ -31,7 +31,12 @@ export default function Navbar() {
         <div onClick={() => setShow(false)}>
           <Navlinks dir="vertical" />
         </div>
-        <Button title="resume" variant="outline" className="mt-4" />
+        <Button
+          title="resume"
+          variant="outline"
+          link="resume"
+          className="mt-4"
+        />
         <img
           src="/x.svg"
           className="absolute top-6 right-24 cursor-pointer"
