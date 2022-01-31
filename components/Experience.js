@@ -21,7 +21,7 @@ export default function Experience() {
                 <p className="text-brownn text-opacity-60 leading-loose">
                   Wen i was in college had an internship at the DPRD of South
                   Sulawesi Province and helped create a website project called
-                  “Pohon Kebaikan” and E-Canteen
+                  Pohon Kebaikan and E-Canteen
                 </p>
               </div>
               <div className="md:w-4/12 pl-20">
