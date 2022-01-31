@@ -24,8 +24,11 @@ export default function Experience() {
                   Pohon Kebaikan and E-Canteen
                 </p>
               </div>
-              <div className="md:w-4/12 pl-20">
-                <img src="/exp1.png" className="w-[70%] mb-6 md:mb-0" />
+              <div className="md:w-4/12 md:pl-20">
+                <img
+                  src="/exp1.png"
+                  className="w-[70%] mb-6 mx-auto md:mx-0 md:mb-0"
+                />
               </div>
             </div>
           </div>
@@ -47,8 +50,11 @@ export default function Experience() {
                   media.
                 </p>
               </div>
-              <div className="md:w-4/12 pl-20">
-                <img src="/exp2.png" className="w-[70%] mb-6 md:mb-0" />
+              <div className="md:w-4/12 md:pl-20">
+                <img
+                  src="/exp2.png"
+                  className="w-[70%] mb-6 mx-auto md:mx-0 md:mb-0"
+                />
               </div>
             </div>
           </div>
