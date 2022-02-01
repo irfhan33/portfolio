@@ -1,8 +1,10 @@
 import Button from "./Button";
 import Navlinks from "./Navlinks";
 import { useState } from "react";
+// import Document from "next/document";
 export default function Navbar() {
   const [show, setShow] = useState(false);
+
   return (
     <>
       <nav className="flex items-center py-5">

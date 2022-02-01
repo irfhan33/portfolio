@@ -29,7 +29,9 @@ export default function Skill() {
               <div className="sm:w-6/12 py-10 px-10">
                 <div className="flex items-center mb-6">
                   <img src="/icon develop.png" className="h-12 sm:h-20 mr-6" />
-                  <h2 className="font-bold text-2xl text-brownn">Design</h2>
+                  <h2 className="font-bold text-2xl text-brownn">
+                    Development
+                  </h2>
                 </div>
                 <p className="text-lightbrown text-opacity-60">
                   I convert UI Design into a Website using react framework which
